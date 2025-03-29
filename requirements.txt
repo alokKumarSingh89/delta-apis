@@ -1,0 +1,10 @@
+FastAPI
+gunicorn
+uvicorn
+python-decouple
+rav
+pandas
+delta-rest-client
+requests
+python-json-logger
+ruff
