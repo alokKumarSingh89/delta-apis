@@ -10,3 +10,4 @@ python-json-logger
 ruff
 pandas_ta
 httpx
+streamlit

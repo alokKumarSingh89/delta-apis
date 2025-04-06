@@ -8,3 +8,5 @@ scripts:
     - rav run run
   empty-build: docker build -f Dockerfile.empty -t empty-py .
   empty-run: docker run -p 8000:8000 -it empty-py
+  future: streamlit run backtest/future.py
+
