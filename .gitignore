@@ -141,7 +141,7 @@ ENV/
 env.bak/
 venv.bak/
 algo-api.bak/
-
+trade.db
 # Spyder project settings
 .spyderproject
 .spyproject
